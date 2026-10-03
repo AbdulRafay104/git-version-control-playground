@@ -1,2 +1,1 @@
-Hello
-Second line added
+Hello from feature-conflict
